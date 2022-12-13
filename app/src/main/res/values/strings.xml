@@ -1,12 +1,70 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="app_name">SMS Converter</string>
+    <string name="InfoVersion">1.7</string>
+    <string name="app_description">Simple, fast and secure SMS Converter for Android</string>
+    <string name="total_sms">sms</string>
+    <string name="start_convert">Convert</string>
+    <string name="start_main">Go</string>
+    <string name="start_application">Start</string>
+    <string name="start_convert2">Start conversion of actual SMS</string>
+    <string name="start_sent">Send</string>
+    <string name="start_sent2">Send by mail actual conversion</string>
+    <string name="start_showFile">Show file</string>
+    <string name="noPermissionsGranted">Start application again and grant all needed permissions</string>
+    <string name="sorryNoTelephony">Sorry but your device has no telephony support</string>
+    <string name="thread">Thread</string>
+    <string name="nameSender">Name</string>
+    <string name="addressSender">Address</string>
+    <string name="bodySender">Body</string>
+    <string name="textSender">Text</string>
+    <string name="typeSender">Type</string>
+    <string name="typeSenderR">Received</string>
+    <string name="typeSenderS">Sent</string>
+    <string name="dateSender">Date</string>
+    <string name="numberOfThread">Total Thread</string>
+    <string name="numberOfSMS">Total SMS</string>
+    <string name="johndoe">JohnDoe</string>
+    <string name="PageNumber">Page n° </string>
+    <string name="enterMail">Enter a valid email address</string>
+    <string name="errorMailNotFormatted">Not a valid email address</string>
+    <string name="ConnexionNotOk">No Connexion</string>
+    <string name="jhonDoe">NoName utilisé dans xmltools</string>
+    <string name="body">This mail has been sent by SMSConverter application and for this user </string>
+    <string name="mailtitle">SMSConverter for user </string>
+    <string name="conversionEnded">Convertion Finished for user : %2$s </string>
+    <string name="conversionFailed">Convertion Failed for user  : %2$s </string>
+    <string name="conversionRunningWaitForNotification">Conversion Running Please Wait For Notification</string>
+    <string name="aConversionIsRunningWaitForNotification">A Conversion is Still Running Please Wait </string>
+    <string name="sendingRunning">Sending Conversion </string>
+    <string name="sendingRunningDetail">Crypting and Sending Conversion ... please wait for notification</string>
+    <string name="sendingEnded">Sending Conversion Finished for user : %2$s</string>
+    <string name="checkSPAM">Contatc %2$s must check the spam folder </string>
+    <string name="sendingFailed">Sending Conversion Failed for user : %2$s</string>
+    <string name="makeConversionFirst"> Make conversion first</string>
+    <string name="noHandler">No handler for this type of file.</string>
+    <string name="noThread">No thread</string>
+    <string name="buy_pro">Buy Pro</string>
+    <string name="dateLib">Date:</string>
+    <string name="pageNumber">Page: </string>
+    <string name="action_about">About</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search by name&#8230;</string>
+    <string name="button_startagain">Start Application Again</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- Settings -->
+    <string name="settings_googleplay">Rate on Google Play</string>
+    <string name="settings_googleplus">Join the community on Google+</string>
+    <!-- Transitions -->
+    <string name="transition_app_icon" translatable="false">App Icon Transition</string>
+    <!-- About -->
+    <string name="about_description_1">App Developer</string>
+    <string name="about_description_2">Icon Designer</string>
+    <!-- Toasts -->
+    <string name="tap_exit">Tap again to close the app</string>
+    <string name="permissionRequired">You have  denied some of the required permissions for this action. Please open settings, go to permissions and allow them</string>
+    <string name="permissionRequiredTitle">Permission required</string>
+    <string name="permissionRequiredParametre">Settings</string>
+
 </resources>
