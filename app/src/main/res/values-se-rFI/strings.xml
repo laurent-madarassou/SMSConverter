@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS-muunnin </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Muunna </string>
+    <string name = "start_main"> Aloita </string>
+    <string name = "start_application"> Aloita </string>
+    <string name = "start_convert2"> Aloita SMS-muuntaminen </string>
+    <string name = "start_sent"> Lähetä </string>
+    <string name = "start_sent2"> Lähetä postitse </string>
+    <string name = "start_showFile"> Näytä tulokset </string>
+    <string name = "noPermissionsGranted"> Aloita sovellus uudelleen </string>
+    <string name = "sorryNoTelephony"> Laitteellasi ei ole puhelintukea </string>
+    <string name = "thread"> Keskustelut </string>
+    <string name = "nameSender"> Nimi </string>
+    <string name = "addressSender"> Puhelin </string>
+    <string name = "bodySender"> Keho </string>
+    <string name = "textSender"> Teksti </string>
+    <string name = "typeSender"> Kirjoita </string>
+    <string name = "typeSenderR"> Vastaanotettu </string>
+    <string name = "typeSenderS"> Lähetetty </string>
+    <string name = "dateSender"> Päivämäärä </string>
+    <string name = "numberOfThread"> Keskustelut yhteensä </string>
+    <string name = "numberOfSMS"> Total SMS </string>
+    <string name = "PageNumber"> Sivu # </string>
+    <string name = "enterMail"> Anna voimassa oleva sähköpostiosoite </string>
+    <string name = "errorMailNotFormatted"> Virheellinen sähköpostiosoite </string>
+    <string name = "ConnectionNotOk"> Ei yhteyttä </string>
+    <string name = "body"> Tämä sähköposti lähetti SMSConverter ja tämä yhteyshenkilö </string>
+    <string name = "mailtitle"> SMSConverter yhteyshenkilölle </string>
+    <string name = "conversionEnded"> Tulos valmis:%2$s </string>
+    <string name = "conversionFailed"> Konversio epäonnistui yhteyshenkilölle:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Muunnos käynnissä ... odottaa ilmoitusta </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Odota, kun tulos on käynnissä </string>
+    <string name = "sendingRunning"> Lähettää tuloksen </string>
+    <string name = "sendingRunningDetail"> Tulos lähetetään ... odottaa ilmoitusta </string>
+    <string name = "sendingEnded"> Lähetä valmiin konversion yhteyshenkilölle:%2$s </string>
+    <string name = "checkSPAM">%2$s -yhteyshenkilön on tarkistettava roskapostikansionsa </string>
+    <string name = "sendingFailed"> Lähetä epäonnistunut konversio yhteyshenkilölle:%2$s </string>
+    <string name = "makeConversionFirst"> Sinun täytyy tehdä konversio aluksi </string>
+    <string name = "noHandler"> Ei voitu avata, mitään tiedostoon liittyvää sovellusta </string>
+    <string name = "dateLib"> Date: </string>
+    <string name = "pageNumber"> Sivu: </string>
+    <string name = "action_about"> Tietoja </string>
+    <string name = "search"> Etsi </string>
+    <string name = "search_hint"> haku nimellä ... </string>
+    <string name = "button_startagain"> Käynnistä sovellus uudelleen </string>
+    <string name = "tap_exit"> Poistu sovelluksesta </string>
+    <string name = "transition_app_icon" translatable = "false"> App Icon Transition </string>
+    <string name = "about_description_1"> App Developer </string>
+    <string name = "about_description_2"> Kuvankäsittelijä </string>
+    <string name="permissionRequired">Olet kieltänyt joitakin vaadittavia käyttöoikeuksia tähän toimintoon. Avaa asetuksia, siirry käyttöoikeuksiin ja anna heille käyttöoikeudet.</string>
+    <string name="permissionRequiredTitle">Lupa vaaditaan</string>
+    <string name="permissionRequiredParametre">asetukset</string>
+
+</resources>

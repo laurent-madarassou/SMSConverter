@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Conversie </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Start conversie SMS </string>
+    <string name = "start_sent"> Trimiteți </string>
+    <string name = "start_sent2"> Trimiteți prin poștă </string>
+    <string name = "start_showFile"> Afișați conversiile </string>
+    <string name = "noPermissionsGranted"> Porniți din nou aplicația </string>
+    <string name = "sorryNoTelephony"> Dispozitivul dvs. nu are suport telefonic </string>
+    <string name = "thread"> Conversații </string>
+    <string name = "nameSender"> Nume </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> Corp </string>
+    <string name = "textSender"> Text </string>
+    <string name = "typeSender"> Tip </string>
+    <string name = "typeSenderR"> primit </string>
+    <string name = "typeSenderS"> Trimise </string>
+    <string name = "dateSender"> Data </string>
+    <string name = "numberOfThread"> Total conversații </string>
+    <string name = "numberOfSMS"> Total SMS </string>
+    <string name = "PageNumber"> Pagina # </string>
+    <string name = "enterMail"> Introduceți adresa de e-mail validă </string>
+    <string name = "errorMailNotFormatted"> Adresă de e-mail nevalidă </string>
+    <string name = "ConnectionNotOk"> Nicio conexiune </string>
+    <string name = "body"> Acest e-mail a fost trimis de SMSConverter și pentru acest contact </string>
+    <string name = "mailtitle"> SMSConverter pentru contactul </string>
+    <string name = "conversionEnded"> Conversia finalizată pentru:%2$s </string>
+    <string name = "conversionFailed"> Conversia a eșuat pentru contactul:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Conversia în curs ... așteptare pentru notificare </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Așteptați în timp ce o conversie este în curs de desfășurare </string>
+    <string name = "sendingRunning"> Trimite conversia </string>
+    <string name = "sendingRunningDetail"> Conversiunea fiind trimisă ... așteptând notificarea </string>
+    <string name = "sendingEnded"> Trimite conversia finalizată pentru contact:%2$s </string>
+    <string name = "checkSPAM"> Contactul%2$s trebuie să verifice folderul său de spam </string>
+    <string name = "sendingFailed"> Trimiteți conversia eșuată pentru contact:%2$s </string>
+    <string name = "makeConversionFirst"> Mai întâi trebuie să faceți o conversie </string>
+    <string name = "noHandler"> Nu s-a putut deschide nici o aplicație asociată cu acest fișier </string>
+    <string name = "dateLib"> Data: </string>
+    <string name = "pageNumber"> Pagina: </string>
+    <string name = "action_about"> Despre </string>
+    <string name = "search"> Căutare </string>
+    <string name = "search_hint"> căutare după nume ... </string>
+    <string name = "button_startagain"> Porniți din nou aplicația </string>
+    <string name = "tap_exit"> Faceți din nou clic pentru a ieși din aplicație </string>
+    <string name = "transition_app_icon" translatable = "false"> Tranziția pictogramei aplicației </string>
+    <string name = "about_description_1"> Dezvoltator de aplicații </string>
+    <string name = "about_description_2"> Designer de pictograme </string>
+    <string name="permissionRequired">Ați refuzat unele dintre permisiunile necesare pentru această acțiune. Deschideți setările, accesați permisiunile și permiteți-le.</string>
+    <string name="permissionRequiredTitle">Este necesară permisiunea</string>
+    <string name="permissionRequiredParametre">Setări</string>
+</resources>

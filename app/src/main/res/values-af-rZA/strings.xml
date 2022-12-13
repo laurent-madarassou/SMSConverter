@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Omskep </string>
+    <string name = "start_main"> Begin </string>
+    <string name = "start_application"> Begin </string>
+    <string name = "start_convert2"> Begin SMS-omskakeling </string>
+    <string name = "start_sent"> Stuur </string>
+    <string name = "start_sent2"> Stuur per pos </string>
+    <string name = "start_showFile"> Wys conversies </string>
+    <string name = "noPermissionsGranted"> Begin die program weer </string>
+    <string name = "sorryNoTelephony"> Jou toestel het nie telefoniese ondersteuning nie </string>
+    <string name = "thread"> Gesprekke </string>
+    <string name = "nameSender"> Naam </string>
+    <string name = "addressSender"> Telefoon </string>
+    <string name = "bodySender"> Body </string>
+    <string name = "textSender"> teks </string>
+    <string name = "typeSender"> Type </string>
+    <string name = "typeSenderR"> Ontvang </string>
+    <string name = "typeSenderS"> Sent </string>
+    <string name = "dateSender"> Datum </string>
+    <string name = "numberOfThread"> Totale Gesprekke </string>
+    <string name = "numberOfSMS"> Totale SMS </string>
+    <string name = "PageNumber"> Bladsy # </string>
+    <string name = "enterMail"> Voer geldige e-pos adres in </string>
+    <string name = "errorMailNotFormatted"> Ongeldige e-posadres </string>
+    <string name = "ConnectionNotOk"> Geen verbinding </string>
+    <string name = "body"> Hierdie e-pos is gestuur deur SMSConverter en vir hierdie kontak </string>
+    <string name = "mailtitle"> SMSConverter vir die kontak </string>
+    <string name = "conversionEnded"> Omskakeling voltooi vir:%2$s </string>
+    <string name = "conversionFailed"> Die omskakeling het misluk vir die kontak:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Gesprek aan die gang ... wag vir kennisgewing </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Wag asseblief terwyl \'n omskakeling aan die gang is </string>
+    <string name = "sendingRunning"> Stuur die omskakeling </string>
+    <string name = "sendingRunningDetail"> Omskakeling word gestuur ... wag vir kennisgewing </string>
+    <string name = "sendingEnded"> Stuur die voltooide omskakeling vir die kontak:%2$s </string>
+    <string name = "checkSPAM"> Die%2$s-kontak moet sy strooipos-vouer nagaan </string>
+    <string name = "sendingFailed"> Stuur mislukte omskakeling vir kontak:%2$s </string>
+    <string name = "makeConversionFirst"> U moet eers \'n omskakeling doen </string>
+    <string name = "noHandler"> Kon nie oopmaak nie, geen toepassing geassosieer met hierdie lêer </string>
+    <string name = "dateLib"> Datum: </string>
+    <string name = "pageNumber"> Pages: </string>
+    <string name = "action_about"> About </string>
+    <string name = "search"> Soek </string>
+    <string name = "search_hint"> soek op naam ... </string>
+    <string name = "button_startagain"> Begin die program weer </string>
+    <string name = "tap_exit"> Klik weer om die aansoek te sluit </string>
+    <string name = "transition_app_icon" translatable = "false"> App Icon Transition </string>
+    <string name = "about_description_1"> Appontwikkelaar </string>
+    <string name = "about_description_2"> Icon Designer </string>
+</resources>

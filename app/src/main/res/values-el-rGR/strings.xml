@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Μετατροπέας SMS </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Μετατροπή </string>
+    <string name = "start_main"> Έναρξη </string>
+    <string name = "start_application"> Έναρξη </string>
+    <string name = "start_convert2"> Εκκίνηση μετατροπής SMS </string>
+    <string name = "start_sent"> Αποστολή </string>
+    <string name = "start_sent2"> Αποστολή μέσω ταχυδρομείου </string>
+    <string name = "start_showFile"> Εμφάνιση μετατροπών </string>
+    <string name = "noPermissionsGranted"> Ξεκινήστε ξανά την εφαρμογή </string>
+    <string name = "sorryNoTelephony"> Η συσκευή σας δεν διαθέτει υποστήριξη τηλεφωνίας </string>
+    <string name = "thread"> Συνομιλίες </string>
+    <string name = "nameSender"> Όνομα </string>
+    <string name = "addressSender"> Τηλέφωνο </string>
+    <string name = "bodySender"> Σώμα </string>
+    <string name = "textSender"> Κείμενο </string>
+    <string name = "typeSender"> Πληκτρολογήστε </string>
+    <string name = "typeSenderR"> Λήψη </string>
+    <string name = "typeSenderS"> Στείλτε </string>
+    <string name = "dateSender"> Ημερομηνία </string>
+    <string name = "numberOfThread"> Συνολικές συνομιλίες </string>
+    <string name = "numberOfSMS"> Σύνολο SMS </string>
+    <string name = "PageNumber"> Σελίδα # </string>
+    <string name = "enterMail"> Εισάγετε έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου </string>
+    <string name = "errorMailNotFormatted"> Μη έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου </string>
+    <string name = "ConnectionNotOk"> Δεν υπάρχει σύνδεση </string>
+    <string name = "body"> Αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου στάλθηκε από το SMSConverter και γι \'αυτή την επαφή </string>
+    <string name = "mailtitle"> SMSConverter για την επαφή </string>
+    <string name = "conversionEnded"> Η μετατροπή ολοκληρώθηκε για:%2$s </string>
+    <string name = "conversionFailed"> Η μετατροπή απέτυχε για την επαφή:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Η μετατροπή σε εξέλιξη ... αναμονή για ειδοποίηση </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Περιμένετε μέχρι να γίνει μια μετατροπή </string>
+    <string name = "sendingRunning"> Στέλνει τη μετατροπή </string>
+    <string name = "sendingRunningDetail"> Η μετατροπή στέλνεται ... περιμένοντας την ειδοποίηση </string>
+    <string name = "sendingEnded"> Στέλνει την ολοκληρωμένη μετατροπή για την επαφή:%2$s </string>
+    <string name = "checkSPAM"> Η επαφή%2$s πρέπει να ελέγξει το φάκελο ανεπιθύμητης αλληλογραφίας </string>
+    <string name = "sendingFailed"> Αποστολή αποτυχημένης μετατροπής για επαφή:%2$s </string>
+    <string name = "makeConversionFirst"> Πρέπει πρώτα να κάνετε μια μετατροπή </string>
+    <string name = "noHandler"> Δεν ήταν δυνατό να ανοίξει, καμία εφαρμογή που σχετίζεται με αυτό το αρχείο </string>
+    <string name = "dateLib"> Ημερομηνία: </string>
+    <string name = "pageNumber"> Σελίδα: </string>
+    <string name = "action_about"> Σχετικά με το </string>
+    <string name = "αναζήτηση"> Αναζήτηση </string>
+    <string name = "search_hint"> αναζήτηση με όνομα ... </string>
+    <string name = "button_startagain"> Ξεκινήστε ξανά την εφαρμογή </string>
+    <string name = "tap_exit"> Κάντε κλικ ξανά για έξοδο από την εφαρμογή </string>
+    <string name = "transition_app_icon" translatable = "false"> Μετάβαση στο εικονίδιο εφαρμογής </string>
+    <string name = "about_description_1"> Προγραμματιστής εφαρμογών </string>
+    <string name = "about_description_2"> Σχεδιαστής εικονιδίων </string>
+    <string name="permissionRequired">Έχετε αρνηθεί ορισμένα από τα απαιτούμενα δικαιώματα για αυτήν την ενέργεια. Ανοίξτε τις ρυθμίσεις, μεταβείτε στα δικαιώματα και τις επιτρέψτε.</string>
+    <string name="permissionRequiredTitle">Απαιτείται άδεια</string>
+    <string name="permissionRequiredParametre">Ρυθμίσεις</string>
+</resources>

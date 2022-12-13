@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Konverter </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Start SMS-konvertering </string>
+    <string name = "start_sent"> Send </string>
+    <string name = "start_sent2"> Send via e-post </string>
+    <string name = "start_showFile"> Vis konverteringer </string>
+    <string name = "noPermissionsGranted"> Start programmet på nytt </string>
+    <string name = "sorryNoTelephony"> Enheten har ikke telefonstøtte </string>
+    <string name = "thread"> Samtaler </string>
+    <string name = "nameSender"> Navn </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> Body </string>
+    <string name = "textSender"> Tekst </string>
+    <string name = "typeSender"> Type </string>
+    <string name = "typeSenderR"> Mottatt </string>
+    <string name = "typeSenderS"> Sendt </string>
+    <string name = "dateSender"> Dato </string>
+    <string name = "numberOfThread"> Totalt samtaler </string>
+    <string name = "numberOfSMS"> Totalt SMS </string>
+    <string name = "PageNumber"> Side # </string>
+    <string name = "enterMail"> Skriv inn gyldig e-postadresse </string>
+    <string name = "errorMailNotFormatted"> Ugyldig e-postadresse </string>
+    <string name = "ConnectionNotOk"> Ingen tilkobling </string>
+    <string name = "body"> Denne e-posten ble sendt av SMSConverter og for denne kontakten </string>
+    <string name = "mailtitle"> SMSConverter for kontakten </string>
+    <string name = "conversionEnded"> Konvertering fullført for:%2$s </string>
+    <string name = "conversionFailed"> Konverteringen mislyktes for kontakten:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Konvertering pågår ... venter på varsel </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Vent litt mens en konvertering pågår </string>
+    <string name = "sendingRunning"> Sender konverteringen </string>
+    <string name = "sendingRunningDetail"> Konvertering blir sendt ... venter på varsel </string>
+    <string name = "sendingEnded"> Sender den fullførte konverteringen for kontakten:%2$s </string>
+    <string name = "checkSPAM">%2$s-kontakten må sjekke sin spammappe </string>
+    <string name = "sendingFailed"> Send mislykket konvertering for kontakt:%2$s </string>
+    <string name = "makeConversionFirst"> Du må gjøre en konvertering først </string>
+    <string name = "noHandler"> Kunne ikke åpne, ingen søknad knyttet til denne filen </string>
+    <string name = "dateLib"> Dato: </string>
+    <string name = "pageNumber"> Side: </string>
+    <string name = "action_about"> Om </string>
+    <string name = "search"> Søk </string>
+    <string name = "search_hint"> søk etter navn ... </string>
+    <string name = "button_startagain"> Start programmet på nytt </string>
+    <string name = "tap_exit"> Klikk igjen for å avslutte programmet </string>
+    <string name = "transition_app_icon" translatable = "false"> App Icon Overgang </string>
+    <string name = "about_description_1"> Apputvikler </string>
+    <string name = "about_description_2"> Ikon Designer </string>
+    <string name="permissionRequired">Du har nektet noen av de nødvendige tillatelsene for denne handlingen. Vennligst åpne innstillinger, gå til tillatelser og tillate dem.</string>
+    <string name="permissionRequiredTitle">Tillatelse kreves</string>
+    <string name="permissionRequiredParametre">innstillinger</string>
+
+</resources>

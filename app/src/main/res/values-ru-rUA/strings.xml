@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Перетворити </string>
+    <string name = "start_main"> Початок </string>
+    <string name = "start_application"> Початок </string>
+    <string name = "start_convert2"> Почати конвертування SMS </string>
+    <string name = "start_sent"> Надіслати </string>
+    <string name = "start_sent2"> Надіслати поштою </string>
+    <string name = "start_showFile"> Показати конверсії </string>
+    <string name = "noPermissionsGranted"> Запустити програму знову </string>
+    <string name = "sorryNoTelephony"> Ваш пристрій не підтримує телефонію </string>
+    <string name = "thread"> Бесіди </string>
+    <string name = "nameSender"> Ім\'я </string>
+    <string name = "addressSender"> Телефон </string>
+    <string name = "bodySender"> Тіло </string>
+    <string name = "textSender"> Текст </string>
+    <string name = "typeSender"> Тип </string>
+    <string name = "typeSenderR"> Отримано </string>
+    <string name = "typeSenderS"> Надіслано </string>
+    <string name = "dateSender"> Дата </string>
+    <string name = "numberOfThread"> Всього бесід </string>
+    <string name = "numberOfSMS"> Всього SMS </string>
+    <string name = "PageNumber"> Сторінка # </string>
+    <string name = "enterMail"> Введіть дійсну адресу електронної пошти </string>
+    <string name = "errorMailNotFormatted"> Недійсна адреса електронної пошти </string>
+    <string name = "ConnectionNotOk"> Немає підключення </string>
+    <string name = "body"> Цей електронний лист був відправлений SMSConverter і для цього контакту </string>
+    <string name = "mailtitle"> SMSConverter для контакту </string>
+    <string name = "conversionEnded"> Конверсія завершена для:%2$s </string>
+    <string name = "conversionFailed"> Не вдалося перетворити контакт:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Початок переходу ... очікування повідомлення </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Будь ласка, зачекайте, поки конверсія буде завершена </string>
+    <string name = "sendingRunning"> Відправляє конверсію </string>
+    <string name = "sendingRunningDetail"> Перехід відправляється ... чекаючи повідомлення </string>
+    <string name = "sendingEnded"> Відправляє завершену конверсію для контакту:%2$s </string>
+    <string name = "checkSPAM"> Контакти%2$s повинні перевірити свою папку зі спамом </string>
+    <string name = "sendFailed"> Надіслати невдалу конверсію для контакту:%2$s </string>
+    <string name = "makeConversionFirst"> Ви повинні спочатку зробити конверсію </string>
+    <string name = "noHandler"> Не вдається відкрити, жодна програма не пов\'язана з цим файлом </string>
+    <string name = "dateLib"> Дата: </string>
+    <string name = "pageNumber"> Сторінка: </string>
+    <string name = "action_about"> Про </string>
+    <string name = "search"> Пошук </string>
+    <string name = "search_hint"> пошук за назвою ... </string>
+    <string name = "button_startagain"> Запустіть програму знову </string>
+    <string name = "tap_exit"> Натисніть ще раз, щоб вийти з програми </string>
+    <string name = "transition_app_icon" translatable = "false"> Перехідна піктограма програми </string>
+    <string name = "about_description_1"> App Developer </string>
+    <string name = "about_description_2"> Дизайнер ікон </string>
+    <string name="permissionRequired">Ви відхилили деякі необхідні дозволи для цієї дії. Будь ласка, відкрийте налаштування, перейдіть до дозволів і дозвольте їм.</string>
+    <string name="permissionRequiredTitle">Необхідний дозвіл</string>
+    <string name="permissionRequiredParametre">Налаштування</string>
+
+</resources>

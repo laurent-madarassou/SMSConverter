@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS-átalakító </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Convert </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> SMS indítása </string>
+    <string name = "start_sent"> Küldés </string>
+    <string name = "start_sent2"> Levélküldés </string>
+    <string name = "start_showFile"> Konverziók megjelenítése </string>
+    <string name = "noPermissionsGranted"> Indítsa újra az alkalmazást </string>
+    <string name = "sorryNoTelephony"> A készülék nem rendelkezik telefonos támogatással </string>
+    <string name = "thread"> Beszélgetések </string>
+    <string name = "nameSender"> Név </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> Test </string>
+    <string name = "textSender"> Szöveg </string>
+    <string name = "typeSender"> Típus </string>
+    <string name = "typeSenderR"> Fogadott </string>
+    <string name = "typeSenderS"> Elküldött </string>
+    <string name = "dateSender"> Dátum </string>
+    <string name = "numberOfThread"> Összes beszélgetés </string>
+    <string name = "numberOfSMS"> Összes SMS </string>
+    <string name = "PageNumber"> Oldal # </string>
+    <string name = "enterMail"> Írja be az érvényes e-mail címet </string>
+    <string name = "errorMailNotFormatted"> Érvénytelen e-mail cím </string>
+    <string name = "ConnectionNotOk"> Nincs kapcsolat </string>
+    <string name = "body"> Ezt az e-mailt az SMSConverter és ezt a kapcsolatot </string> küldték
+    <string name = "mailtitle"> SMSConverter a kapcsolat </string>
+    <string name = "conversionEnded"> A konverzió befejeződött:%2$s </string>
+    <string name = "conversionFailed"> A konverzió sikertelen volt a kapcsolatnál:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> A folyamatban lévő konverzió ... vár az értesítésre </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Kérjük várjon, amíg egy konverzió folyamatban van </string>
+    <string name = "sendingRunning"> Küldi az átalakítást </string>
+    <string name = "sendingRunningDetail"> A konverzió elküldése ... vár az értesítésre </string>
+    <string name = "sendingEnded"> A kapcsolat befejezett konverzióját küldi el:%2$s </string>
+    <string name = "checkSPAM"> A%2$s kapcsolattartónak ellenőriznie kell a spam mappáját </string>
+    <string name = "sendingFailed"> Érvénytelen konverzió küldése:%2$s </string>
+    <string name = "makeConversionFirst"> Először egy konverziót kell tennie </string>
+    <string name = "noHandler"> Nem lehet megnyitni, nincs hozzá alkalmazás ehhez a fájlhoz </string>
+    <string name = "dateLib"> Dátum: </string>
+    <string name = "pageNumber"> Oldal: </string>
+    <string name = "action_about"> Mintegy </string>
+    <string name = "search"> Keresés </string>
+    <string name = "search_hint"> keresés név szerint ... </string>
+    <string name = "button_startagain"> Indítsa újra az alkalmazást </string>
+    <string name = "tap_exit"> Kattintson újra az alkalmazás elhagyásához </string>
+    <string name = "transition_app_icon" transllatable = "false"> App ikon átmenete </string>
+    <string name = "about_description_1"> Alkalmazásfejlesztő </string>
+    <string name = "about_description_2"> Icon Designer </string>
+    <string name="permissionRequired">Megtagadta a szükséges engedélyek egy részét ehhez a művelethez. Nyissa meg a beállításokat, lépjen engedélyekre, és engedélyezze őket.</string>
+    <string name="permissionRequiredTitle">Engedély szükséges</string>
+    <string name="permissionRequiredParametre">Beállítások</string>
+
+</resources>

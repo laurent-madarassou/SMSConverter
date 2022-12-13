@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Konvertera </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Starta SMS-konvertering </string>
+    <string name = "start_sent"> Skicka </string>
+    <string name = "start_sent2"> Skicka via mail </string>
+    <string name = "start_showFile"> Visa omvandlingar </string>
+    <string name = "noPermissionsGranted"> Starta programmet igen </string>
+    <string name = "sorryNoTelephony"> Enheten har inte telefonstöd </string>
+    <string name = "thread"> Konversationer </string>
+    <string name = "nameSender"> Namn </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> Body </string>
+    <string name = "textSender"> Text </string>
+    <string name = "typeSender"> Typ </string>
+    <string name = "typeSenderR"> Received </string>
+    <string name = "typeSenderS"> Skickat </string>
+    <string name = "dateSender"> Datum </string>
+    <string name = "numberOfThread"> Totalt antal samtal </string>
+    <string name = "numberOfSMS"> Totalt SMS </string>
+    <string name = "PageNumber"> Sida # </string>
+    <string name = "enterMail"> Ange giltig e-postadress </string>
+    <string name = "errorMailNotFormatted"> Ogiltig e-postadress </string>
+    <string name = "ConnectionNotOk"> Ingen anslutning </string>
+    <string name = "body"> Detta e-postmeddelande skickades av SMSConverter och för den här kontakten </string>
+    <string name = "mailtitle"> SMSConverter för kontakten </string>
+    <string name = "conversionEnded"> Konvertering slutförd för:%2$s </string>
+    <string name = "conversionFailed"> Konverteringen misslyckades för kontakten:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Konvertering pågår ... väntar på meddelande </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Vänta medan en omvandling pågår </string>
+    <string name = "sendingRunning"> Skickar konverteringen </string>
+    <string name = "sendingRunningDetail"> Konvertering skickas ... väntar på meddelande </string>
+    <string name = "sendingEnded"> Skickar den slutförda konverteringen för kontakten:%2$s </string>
+    <string name = "checkSPAM"> Kontakten%2$s måste kontrollera sin spammapp </string>
+    <string name = "sendingFailed"> Skicka misslyckad konvertering för kontakt:%2$s </string>
+    <string name = "makeConversionFirst"> Du måste göra en konvertering först </string>
+    <string name = "noHandler"> Kunde inte öppna, ingen applikation som är associerad med den här filen </string>
+    <string name = "dateLib"> Datum: </string>
+    <string name = "pageNumber"> Sida: </string>
+    <string name = "action_about"> Om </string>
+    <string name = "search"> Sök </string>
+    <string name = "search_hint"> sök efter namn ... </string>
+    <string name = "button_startagain"> Starta programmet igen </string>
+    <string name = "tap_exit"> Klicka igen för att avsluta programmet </string>
+    <string name = "transition_app_icon" translatable = "false"> App Icon Övergång </string>
+    <string name = "about_description_1"> Apputvecklare </string>
+    <string name = "about_description_2"> Ikon Designer </string>
+    <string name="permissionRequired">Du har nekat några av de behöriga behörigheterna för den här åtgärden. Vänligen öppna inställningar, gå till behörigheter och tillåta dem</string>
+    <string name="permissionRequiredTitle">Behörighet krävs</string>
+    <string name="permissionRequiredParametre">inställningar</string>
+
+
+
+</resources>

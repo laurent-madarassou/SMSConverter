@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Breytir </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Breyta </string>
+    <string name = "start_main"> Byrja </string>
+    <string name = "start_application"> Byrja </string>
+    <string name = "start_convert2"> Byrja SMS viðskipti </string>
+    <string name = "start_sent"> Senda </string>
+    <string name = "start_sent2"> Senda með pósti </string>
+    <string name = "start_showFile"> Sýna viðskipti </string>
+    <string name = "noPermissionsGranted"> Ræstu forritið aftur </string>
+    <string name = "sorryNoTelephony"> Tækið þitt styður ekki símafyrirtæki </string>
+    <string name = "thread"> Samtöl</string>
+    <string name = "nameSender"> Nafn </string>
+    <string name = "addressSender"> Sími </string>
+   <string name = "bodySender"> Líkami</string>
+    <string name = "textSender"> Texti </string>
+    <string name = "typeSender"> Tegund </string>
+    <string name = "typeSenderR"> móttekið</string>
+    <string name = "typeSenderS"> Sent</string>
+    <string name = "dateSender"> Dagsetning </string>
+    <string name = "numberOfThread"> Samtals samtöl </string>
+    <string name = "numberOfSMS"> Samtals SMS</string>
+    <string name = "PageNumber"> Page # </string>
+    <string name = "enterMail"> Sláðu inn gilt netfang </string>
+    <string name = "errorMailNotFormatted"> Ógilt netfang </string>
+    <string name = "ConnectionNotOk"> Engin tenging</string>
+    <string name = "body"> Þetta tölvupóstur var sendur með SMSConverter og fyrir þennan tengilið </string>
+    <string name = "mailtitle"> SMSConverter fyrir tengiliðinn </string>
+    <string name = "conversionEnded"> viðskipta lokið fyrir:%2$s </string>
+    <string name = "conversionFailed"> Umferð mistókst fyrir tengiliðinn:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Viðskipti í gangi ... Bíða eftir tilkynningu </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Bíddu meðan viðskipti eru í gangi </string>
+    <string name = "sendingRunning"> Sendir viðskipti</string>
+    <string name = "sendingRunningDetail"> Viðskipta sendingu ... bíða eftir tilkynningu </string>
+    <string name = "sendingEnded"> Sendi lokið viðskipti fyrir tengiliðinn:%2$s </string>
+    <string name = "checkSPAM"> Tengiliðurinn%2$s verður að athuga ruslpóstmöppuna sína </string>
+    <string name = "sendingFailed"> Senda mistókst viðskipti fyrir tengilið:%2$s </string>
+    <string name = "makeConversionFirst"> Þú þarft að gera viðskipti í fyrstu </string>
+    <string name = "noHandler"> Gat ekki opnað, engin forrit tengd þessari skrá </string>
+    <string name = "dateLib"> Dagsetning: </string>
+    <string name = "pageNumber"> Síða: </string>
+    <string name = "action_about"> Um</string>
+    <string name = "search"> Leita </string>
+    <string name = "search_hint"> leita eftir nafni ... </string>
+    <string name = "button_startagain"> Byrja forritið aftur </string>
+    <string name = "tap_exit"> Smelltu aftur til að hætta forritinu </string>
+    <string name = "transition_app_icon" translatable = "false"> Forrit táknmyndar </string>
+    <string name = "about_description_1"> Hönnuður forrita </string>
+    <string name = "about_description_2"> Táknmyndahönnuður </string>
+    <string name="permissionRequired">Þú hefur neitað nokkrum heimildum fyrir þessa aðgerð. Opnaðu stillingar, farðu í heimildir og leyfðu þeim.</string>
+    <string name="permissionRequiredTitle">Krafist er krafist</string>
+    <string name="permissionRequiredParametre">Stillingar</string>
+
+
+</resources>

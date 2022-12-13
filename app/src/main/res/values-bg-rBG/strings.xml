@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS конвертор </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Конвертиране </string>
+    <string name = "start_main"> Старт </string>
+    <string name = "start_application"> Старт </string>
+    <string name = "start_convert2"> Стартиране на SMS конвертиране </string>
+    <string name = "start_sent"> Изпращане </string>
+    <string name = "start_sent2"> Изпращане по поща </string>
+    <string name = "start_showFile"> Показване на реализациите </string>
+    <string name = "noPermissionsGranted"> Започнете отново приложението </string>
+    <string name = "sorryNoTelephony"> Вашето устройство няма поддръжка по телефона </string>
+    <string name = "нишка"> Разговори </string>
+    <string name = "nameSender"> Име </string>
+    <string name = "addressSender"> Телефон </string>
+    <string name = "bodySender"> тяло </string>
+    <string name = "textSender"> Текст </string>
+    <string name = "typeSender"> Въведете </string>
+    <string name = "typeSenderR"> Получени </string>
+    <string name = "typeSenderS"> Изпратено </string>
+    <string name = "dateSender"> Дата </string>
+    <string name = "numberOfThread"> Общо разговори </string>
+    <string name = "numberOfSMS"> Общ SMS </string>
+    <string name = "PageNumber"> Страница # </string>
+    <string name = "enterMail"> Въведете валиден имейл адрес </string>
+    <string name = "errorMailNotFormatted"> Невалиден имейл адрес </string>
+    <string name = "ConnectionNotOk"> Няма връзка </string>
+    <string name = "body"> Този имейл е изпратен от SMSConverter и за този контакт </string>
+    <string name = "mailtitle"> SMSConverter за контакта </string>
+    <string name = "conversionEnded"> Реализацията е завършена за:%2$s </string>
+    <string name = "conversionFailed"> Конвертирането е неуспешно за контакта:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Текущата конверсия ... чакаща за известяване </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Моля, изчакайте, докато реализация е в ход </string>
+    <string name = "sendingRunning"> Изпраща конверсията </string>
+    <string name = "sendingRunningDetail"> Прехвърлянето се изпраща ... чака за известяване </string>
+    <string name = "sendingEnded"> Изпраща завършената реализация за контакта:%2$s </string>
+    <string name = "checkSPAM"> Контактът%2$s трябва да провери своята папка за спам </string>
+    <string name = "sendingFailed"> Изпращане на неуспешна реализация за контакт:%2$s </string>
+    <string name = "makeConversionFirst"> Най-напред трябва да направите реализация </string>
+    <string name = "noHandler"> Не можа да се отвори приложение, свързано с този файл </string>
+    <string name = "dateLib"> Дата: </string>
+    <string name = "pageNumber"> Страница: </string>
+    <string name = "action_about"> За </string>
+    <string name = "search"> Търсене </string>
+    <string name = "search_hint"> търсене по име ... </string>
+    <string name = "button_startagain"> Стартирайте приложението отново </string>
+    <string name = "tap_exit"> Кликнете отново, за да излезете от приложението </string>
+    <string name = "transition_app_icon" translatable = "false"> Преход на иконата на приложението </string>
+    <string name = "about_description_1"> Разработчик на приложения </string>
+    <string name = "about_description_2"> Дизайнер на икони </string>
+    <string name="permissionRequired">Вие сте отказали някои от необходимите разрешения за това действие. Моля, отворете настройките, преминете към разрешенията и ги разрешете.</string>
+    <string name="permissionRequiredTitle">Необходимо е разрешение</string>
+    <string name="permissionRequiredParametre">Настройки</string>
+</resources>

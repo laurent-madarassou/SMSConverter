@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Tiontaire SMS </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Tiontaigh </string>
+    <string name = "start_main"> Tosaigh </string>
+    <string name = "start_application"> Tosaigh </string>
+    <string name = "start_convert2"> Tosaigh tiontú SMS </string>
+    <string name = "start_sent"> Seol </string>
+    <string name = "start_sent2"> Seol tríd an bpost </string>
+    <string name = "start_showFile"> Taispeáin tiontaithe </string>
+    <string name = "noPermissionsGranted"> Tosaigh an t-iarratas arís </string>
+    <string name = "sorryNoTelephony"> Níl tacaíocht teileafónaíochta ag do gléas </string>
+    <string name = "thread"> Comhráite </string>
+    <string name = "nameSender"> Ainm </string>
+    <string name = "addressSender"> Fón </string>
+    <string name = "bodySender"> Comhlacht </string>
+    <string name = "textSender"> Téacs </string>
+    <string name = "typeSender"> Cineál </string>
+    <string name = "typeSenderR"> Faighte </string>
+    <string name = "typeSenderS"> Sent </string>
+    <string name = "dateSender"> Dáta </string>
+    <string name = "numberOfThread"> Comhráite Iomlán </string>
+    <string name = "numberOfSMS"> Iomlán SMS </string>
+    <string name = "PageNumber"> Leathanach # </string>
+    <string name = "enterMail"> Cuir isteach seoladh ríomhphoist bailí </string>
+    <string name = "errorMailNotFormatted"> Seoladh ríomhphoist neamhbhailí </string>
+    <string name = "ConnectionNotOk"> Níl nasc </string>
+    <string name = "body"> Chuir SMSConverter an ríomhphost seo agus an teagmhála seo </string>
+    <string name = "mailtitle"> SMSConverter don teagmhála </string>
+    <string name = "conversionEnded"> Comhshó críochnaithe le haghaidh:%2$s </string>
+    <string name = "conversionFailed"> Theip ar an comhshó le haghaidh an teagmhála:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Comhshó ar siúl ... ag fanacht le fógra </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Fan le do thoil agus tá comhshó ar siúl </string>
+    <string name = "sendingRunning"> Seoltar an t-athrú </string>
+    <string name = "sendingRunningDetail"> Comhshó á sheoladh ... ag fanacht le fógra </string>
+    <string name = "sendingEnded"> Seoltar an t-athrú ar an teagmhála:%2$s </string>
+    <string name = "checkSPAM"> Ní mór don teagmháil%2$s a fhillteán spam </string> a sheiceáil
+    <string name = "sendingFailed"> Seol comhshó theip ar teagmhála:%2$s </string>
+    <string name = "makeConversionFirst"> Ní mór duit comhshó a dhéanamh ar dtús </string>
+    <string name = "noHandler"> Níorbh fhéidir a oscailt, gan aon iarratas a bhaineann leis an gcomhad </string>
+    <string name = "dateLib"> Dáta: </string>
+    <string name = "pageNumber"> Leathanach: </string>
+    <string name = "action_about"> Maidir </string>
+    <string name = "search"> Cuardaigh </string>
+    <string name = "search_hint"> cuardach de réir ainm ... </string>
+    <string name = "button_startagain"> Tosaigh an t-iarratas arís </string>
+    <string name = "tap_exit"> Cliceáil arís chun an t-iarratas </string> a fhágáil
+    <string name = "transition_app_icon" translatable = "false"> App Icon Transition </string>
+    <string name = "about_description_1"> Forbróir an App </string>
+    <string name = "about_description_2"> Deilbhín Deilbhín </string>
+    <string name="permissionRequired">Dhiúltaigh tú cuid de na ceadanna riachtanacha don ghníomhaíocht seo. Oscail suíomhanna, téigh go dtí ceadanna agus lig dóibh iad.</string>
+    <string name="permissionRequiredTitle">Cead ag teastáil</string>
+    <string name="permissionRequiredParametre">Socruithe</string>
+</resources>

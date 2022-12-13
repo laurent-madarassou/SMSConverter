@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">SMS Converter</string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Convertir </string>
+    <string name = "start_main"> Inicio </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Iniciar la conversión de SMS </string>
+    <string name = "start_sent"> Enviar </string>
+    <string name = "start_sent2"> Enviar por correo </string>
+    <string name = "start_showFile"> Mostrar conversiones </string>
+    <string name = "noPermissionsGranted"> Comience la aplicación nuevamente </string>
+    <string name = "sorryNoTelephony"> Su dispositivo no tiene soporte de telefonía </string>
+    <string name = "thread"> Conversaciones </string>
+    <string name = "nameSender"> Nombre </string>
+    <string name = "addressSender"> Teléfono </string>
+    <string name = "bodySender"> Cuerpo </string>
+    <string name = "textSender"> Texto </string>
+    <string name = "typeSender"> Escriba </string>
+    <string name = "typeSenderR"> Recibido </string>
+    <string name = "typeSenderS"> Enviado </string>
+    <string name = "dateSender"> Fecha </string>
+    <string name = "numberOfThread"> Total de conversaciones </string>
+    <string name = "numberOfSMS"> Total SMS </string>
+    <string name = "PageNumber"> Número de página </string>
+    <string name = "enterMail"> Ingrese una dirección de correo electrónico válida </string>
+    <string name = "errorMailNotFormatted"> Dirección de correo electrónico no válida </string>
+    <string name = "ConnectionNotOk"> Sin conexión </string>
+    <string name = "body"> Este correo electrónico fue enviado por SMSConverter y para este contacto </string>
+    <string name = "mailtitle"> SMSConverter para el contacto </string>
+    <string name = "conversionEnded"> Conversión completada para:%2$s </string>
+    <string name = "conversionFailed"> Falló la conversión para el contacto:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Conversión en progreso ... esperando notificación </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Espere mientras se realiza una conversión </string>
+    <string name = "sendingRunning"> Envía la conversión </string>
+    <string name = "sendingRunningDetail"> Se está enviando la conversión ... esperando la notificación </string>
+    <string name = "sendingEnded"> Envía la conversión completada para el contacto:%2$s </string>
+    <string name = "checkSPAM"> El contacto%2$s debe consultar su carpeta de spam </string>
+    <string name = "sendingFailed"> Enviar conversión fallida para contacto:%2$s </string>
+    <string name = "makeConversionFirst"> Primero debe realizar una conversión </string>
+    <string name = "noHandler"> No se pudo abrir, ninguna aplicación asociada con este archivo </string>
+    <string name = "dateLib"> Fecha: </string>
+    <string name = "pageNumber"> Página: </string>
+    <string name = "action_about"> Acerca de </string>
+    <string name = "search"> Buscar </string>
+    <string name = "search_hint"> búsqueda por nombre ... </string>
+    <string name = "button_startagain"> Inicia la aplicación de nuevo </string>
+    <string name = "tap_exit"> Haz clic de nuevo para salir de la aplicación </string>
+    <string name = "transition_app_icon" traducible = "falso"> App Icon Transition </string>
+    <string name = "about_description_1"> Desarrollador de aplicaciones </string>
+    <string name = "about_description_2"> Diseñador de iconos </string>
+    <string name="permissionRequired">Ha negado algunos de los permisos necesarios para esta acción. Abra la configuración, vaya a permisos y permítales.</string>
+    <string name="permissionRequiredTitle">Permiso requerido</string>
+    <string name="permissionRequiredParametre">Configuraciones</string>
+
+</resources>

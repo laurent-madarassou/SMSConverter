@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS-converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Convert </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Start sms-conversie </string>
+    <string name = "start_sent"> Send </string>
+    <string name = "start_sent2"> Verzenden per e-mail </string>
+    <string name = "start_showFile"> Toon conversies </string>
+    <string name = "noPermissionsGranted"> Start de applicatie opnieuw </string>
+    <string name = "sorryNoTelephony"> Uw apparaat heeft geen telefonische ondersteuning </string>
+    <string name = "thread"> Conversaties </string>
+    <string name = "nameSender"> Name </string>
+    <string name = "addressSender"> Telefoon </string>
+    <string name = "bodySender"> Hoofdgedeelte </string>
+    <string name = "textSender"> Tekst </string>
+    <string name = "typeSender"> Type </string>
+    <string name = "typeSenderR"> Received </string>
+    <string name = "typeSenderS"> Verzonden </string>
+    <string name = "dateSender"> Datum </string>
+    <string name = "numberOfThread"> Total Conversations </string>
+    <string name = "numberOfSMS"> Totaal SMS </string>
+    <string name = "PageNumber"> Paginanummer </string>
+    <string name = "enterMail"> Vul geldig e-mailadres in </string>
+    <string name = "errorMailNotFormatted"> Ongeldig e-mailadres </string>
+    <string name = "ConnectionNotOk"> Geen verbinding </string>
+    <string name = "body"> Deze e-mail is verzonden door SMSConverter en voor deze contactpersoon </string>
+    <string name = "mailtitle"> SMSConverter voor het contact </string>
+    <string name = "conversionEnded"> Conversie voltooid voor:%2$s </string>
+    <string name = "conversionFailed"> De conversie is mislukt voor de contactpersoon:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Conversie wordt uitgevoerd ... wacht op melding </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Een ogenblik geduld terwijl een conversie wordt uitgevoerd </string>
+    <string name = "sendingRunning"> Verzendt de conversie </string>
+    <string name = "sendingRunningDetail"> Conversie wordt verzonden ... wacht op melding </string>
+    <string name = "sendingEnded"> Verzendt de voltooide conversie voor de contactpersoon:%2$s </string>
+    <string name = "checkSPAM"> Het contact%2$s moet zijn spam-map controleren </string>
+    <string name = "sendingFailed"> Verstuur mislukte conversie voor contact:%2$s </string>
+    <string name = "makeConversionFirst"> U moet eerst een conversie uitvoeren </string>
+    <string name = "noHandler"> Kon niet openen, geen applicatie gekoppeld aan dit bestand </string>
+    <string name = "dateLib"> Datum: </string>
+    <string name = "pageNumber"> Pagina: </string>
+    <string name = "action_about"> Over </string>
+    <string name = "search"> Zoeken </string>
+    <string name = "search_hint"> zoek op naam ... </string>
+    <string name = "button_startagain"> Start de applicatie opnieuw </string>
+    <string name = "tap_exit"> Klik opnieuw om de toepassing af te sluiten </string>
+    <string name = "transition_app_icon" translatable = "false"> App Icon Transition </string>
+    <string name = "about_description_1"> App-ontwikkelaar </string>
+    <string name = "about_description_2"> Icon Designer </string>
+    <string name="permissionRequired">U hebt een aantal van de vereiste machtigingen voor deze actie geweigerd. Open instellingen, ga naar rechten en sta ze toe.</string>
+    <string name="permissionRequiredTitle">Toestemming vereist</string>
+    <string name="permissionRequiredParametre">instellingen</string>
+
+</resources>

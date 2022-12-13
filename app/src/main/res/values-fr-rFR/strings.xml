@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Converter</string>
+    <string name="app_description">Simple, sécurisé et rapide. SMS Converter pour Android</string>
+    <string name="InfoVersion">1.7</string>
+    <string name="total_sms">sms</string>
+    <string name="start_convert">Convertir</string>
+    <string name="start_main">Début</string>
+    <string name="start_application">Démarrer</string>
+    <string name="start_convert2">Démarrer une conversion des SMS</string>
+    <string name="start_sent">Envoyer</string>
+    <string name="start_sent2">Envoyer par mail</string>
+    <string name="start_showFile">Montrer les conversions</string>
+    <string name="noPermissionsGranted">Démarrer à nouveau l\'application </string>
+    <string name="sorryNoTelephony">Votre appareil n\'a pas le support de la téléphonie</string>
+    <string name="thread">Conversations</string>
+    <string name="nameSender">Nom</string>
+    <string name="addressSender">Téléphone</string>
+    <string name="bodySender">Body</string>
+    <string name="textSender">Text</string>
+    <string name="typeSender">Type</string>
+    <string name="typeSenderR">Reçu</string>
+    <string name="typeSenderS">Envoyé</string>
+    <string name="dateSender">Date</string>
+    <string name="numberOfThread">Total de conversations</string>
+    <string name="numberOfSMS">Total de SMS</string>
+    <string name="PageNumber">Page n° </string>
+    <string name="enterMail">Entrez une adresse email valide</string>
+    <string name="errorMailNotFormatted">Adresse email non valide</string>
+    <string name="ConnexionNotOk">Aucune Connexion</string>
+     <string name="body">Ce mail a été envoyé par SMSConverter et pour ce contact</string>
+    <string name="mailtitle">SMSConverter pour le contact </string>
+    <string name="conversionEnded">Conversion terminée pour : %2$s </string>
+    <string name="conversionFailed">La conversion a échouée pour le contact : %2$s </string>
+    <string name="conversionRunningWaitForNotification">Conversion en cours ... en attente de notification</string>
+    <string name="aConversionIsRunningWaitForNotification">Veuillez patienter, une conversion est en cours </string>
+    <string name="sendingRunning">Envoie de la conversion </string>
+    <string name="sendingRunningDetail">Conversion en cours d\'envoie ... en attente de notification</string>
+    <string name="sendingEnded">Envoie de la conversion terminée pour le contact : %2$s</string>
+    <string name="checkSPAM"> Le contact %2$s doit vérifier son dossier spam </string>
+    <string name="sendingFailed">Envoie de la conversion a échoué pour le contact : %2$s</string>
+    <string name="makeConversionFirst">Vous devez faire une conversion dans un premier temps</string>
+    <string name="noHandler">Impossible d\'ouvrir, aucune application associée à ce fichier</string>
+    <string name="dateLib">Date:</string>
+    <string name="pageNumber">Page: </string>
+    <string name="action_about">A propos</string>
+    <string name="search">Recherche</string>
+    <string name="search_hint">recherchez par nom&#8230;</string>
+    <string name="button_startagain">Démarrer à nouveau l\'application</string>
+    <string name="tap_exit">Cliquez à nouveau pour sortir de l\'application</string>
+    <string name="transition_app_icon" translatable="false">App Icon Transition</string>
+    <string name="about_description_1">App Developer</string>
+    <string name="about_description_2">Icon Designer</string>
+    <string name="permissionRequired">Vous avez refusé certaines autorisations requises pour cette action. Veuillez ouvrir les paramètres, accédez aux autorisations et autorisez-les.</string>
+    <string name="permissionRequiredTitle">Permission requise</string>
+    <string name="permissionRequiredParametre">Paramètres</string>
+
+</resources>

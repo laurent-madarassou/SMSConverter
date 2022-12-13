@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS Converter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Konvertovať </string>
+    <string name = "start_main"> Štart </string>
+    <string name = "start_application"> Štart </string>
+    <string name = "start_convert2"> Spustiť konverziu SMS </string>
+    <string name = "start_sent"> Odoslať </string>
+    <string name = "start_sent2"> Odoslať poštou </string>
+    <string name = "start_showFile"> Zobraziť konverzie </string>
+    <string name = "noPermissionsGranted"> Znova spustite aplikáciu </string>
+    <string name = "sorryNoTelephony"> Vaše zariadenie nemá podporu pre telefonovanie </string>
+    <string name = "thread"> Konverzácie </string>
+    <string name = "nameSender"> Názov </string>
+    <string name = "addressSender"> Telefón </string>
+    <string name = "bodySender"> Telo </string>
+    <string name = "textSender"> Text </string>
+    <string name = "typeSender"> Typ </string>
+    <string name = "typeSenderR"> Prijaté </string>
+    <string name = "typeSenderS"> Odoslané </string>
+    <string name = "dateSender"> Dátum </string>
+    <string name = "numberOfThread"> Celkové konverzácie </string>
+    <string name = "numberOfSMS"> Celková SMS </string>
+    <string name = "PageNumber"> Stránka # </string>
+    <string name = "enterMail"> Zadajte platnú e-mailovú adresu </string>
+    <string name = "errorMailNotFormatted"> Neplatná e-mailová adresa </string>
+    <string name = "ConnectionNotOk"> Žiadne pripojenie </string>
+    <string name = "body"> Tento e-mail bol odoslaný SMSConverterom a pre tento kontakt </string>
+    <string name = "mailtitle"> SMSConverter pre kontakt </string>
+    <string name = "conversionEnded"> Konverzia bola dokončená pre:%2$s </string>
+    <string name = "conversionFailed"> Konverzia zlyhala pre kontakt:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Prebieha konverzia ... čaká na upozornenie </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Počkajte, kým prebieha konverzia </string>
+    <string name = "sendingRunning"> Odošle konverziu </string>
+    <string name = "sendingRunningDetail"> Konverzia sa odosiela ... čaká na upozornenie </string>
+    <string name = "sendingEnded"> Odošle dokončenú konverziu kontaktu:%2$s </string>
+    <string name = "checkSPAM"> Kontakt%2$s musí skontrolovať svoju zložku spam </string>
+    <string name = "sendingFailed"> Odošlite zlyhanú konverziu pre kontakt:%2$s </string>
+    <string name = "makeConversionFirst"> Najprv musíte vykonať konverziu </string>
+    <string name = "noHandler"> Nepodarilo sa otvoriť žiadnu aplikáciu spojenú s týmto súborom </string>
+    <string name = "dateLib"> Dátum: </string>
+    <string name = "pageNumber"> Stránka: </string>
+    <string name = "action_about"> O </string>
+    <string name = "search"> Search </string>
+    <string name = "search_hint"> vyhľadávanie podľa názvu ... </string>
+    <string name = "button_startagain"> Znova spustite aplikáciu </string>
+    <string name = "tap_exit"> Znova kliknutím ukončíte aplikáciu </string>
+    <string name = "transition_app_icon" translatable = "false"> Prechod Ikony aplikácie </string>
+    <string name = "about_description_1"> Vývojár aplikácií </string>
+    <string name = "about_description_2"> Návrhár ikon </string>
+    <string name="permissionRequired">Odmítli jste některá z požadovaných oprávnění pro tuto akci. Otevřete prosím nastavení, přejděte na oprávnění a povolte je.</string>
+    <string name="permissionRequiredTitle">Potřebné povolení</string>
+    <string name="permissionRequiredParametre">Nastavení</string>
+</resources>

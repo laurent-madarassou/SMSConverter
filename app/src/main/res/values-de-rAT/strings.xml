@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "Anwendungsname"> SMS-Konverter</string>
+    <string name = "InfoVersion"> 1.7</string>
+    <string name = "total_sms"> SMS </string>
+    <string name = "start_convert"> Konvertiere </string>
+    <string name = "start_main"> Start </string>
+    <string name = "start_application"> Start </string>
+    <string name = "start_convert2"> Starten Sie die SMS-Konvertierung </string>
+    <string name = "start_sent"> Senden </string>
+    <string name = "start_sent2"> Senden per E-Mail </string>
+    <string name = "start_showFile"> Konvertierungen anzeigen </string>
+    <string name = "noPermissionsGranted"> Starten Sie die Anwendung erneut </string>
+    <string name = "sorryNoTelefony"> Ihr Gerät hat keine Telefonie-Unterstützung </string>
+    <string name = "thread"> Konversationen </string>
+    <string name = "NameSender"> Name </string>
+    <string name = "adresseSender"> Telefon </string>
+    <string name = "bodySender"> Hauptteil </string>
+    <string name = "TextSender"> Text </string>
+    <string name = "typeSender"> Geben Sie </string>
+    <string name = "typeSenderR"> Empfangene </string>
+    <string name = "typeSenderS"> Gesendet </string>
+    <string name = "DatumSender"> Datum </string>
+    <string name = "numberOfThread"> Gesamtzahl der Gespräche </string>
+    <string name = "numberOfSMS"> Gesamt SMS </string>
+    <string name = "Seitenzahl"> Seitenzahl </string>
+    <string name = "enterMail"> Geben Sie eine gültige E-Mail-Adresse ein </string>
+    <string name = "errorMailNotFormatted"> Ungültige E-Mail-Adresse </string>
+    <string name = "ConnectionNotOk"> Keine Verbindung </string>
+    <string name = "body"> Diese E-Mail wurde von SMSConverter und für diesen Kontakt </string>
+    <string name = "mailtitle"> SMSConverter für den Kontakt </string>
+    <string name = "conversionEnded"> Konvertierung abgeschlossen für:%2$s </string>
+    <string name = "conversionFailed"> Die Konvertierung für den Kontakt ist fehlgeschlagen:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Konvertierung wird ausgeführt ... wartet auf Benachrichtigung </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Bitte warten Sie, während eine Konvertierung läuft </string>
+    <string name = "sendingRunning"> Sendet die Konvertierung </string>
+    <string name = "sendingRunningDetail"> Konvertierung wird gesendet ... wartet auf Benachrichtigung </string>
+    <string name = "sendingEnded"> Sendet die abgeschlossene Konvertierung für den Kontakt:%2$s </string>
+    <string name = "checkSPAM"> Der%2$s-Kontakt muss seinen Spam-Ordner </string>
+    <string name = "sendingFailed"> Fehlerhafte Konvertierung für Kontakt senden:%2$s </string>
+    <string name = "makeConversionFirst"> Sie müssen zuerst eine Konvertierung durchführen </string>
+    <string name = "noHandler"> Konnte nicht öffnen, keine dieser Datei zugeordnete Anwendung </string>
+    <string name = "dateLib"> Datum: </string>
+    <string name = "Seitenzahl2"> Seite: </string>
+    <string name = "action_about"> Über </string>
+    <string name = "Suche"> Suche </string>
+    <string name = "search_hint"> Suche nach Name ... </string>
+    <string name = "button_startagain"> Starten Sie die Anwendung erneut </string>
+    <string name = "tap_exit"> Klicken Sie erneut, um die Anwendung </string>
+    <string name = "transition_app_icon" übersetzbar = "false"> App-Symbol-Übergang </string>
+    <string name = "about_description_1"> App-Entwickler </string>
+    <string name = "about_description_2"> Symbol-Designer </string>
+    <string name="permissionRequired">Sie haben einige der erforderlichen Berechtigungen für diese Aktion verweigert. Bitte öffnen Sie die Einstellungen, gehen Sie zu den Berechtigungen und erlauben Sie sie.</string>
+    <string name="permissionRequiredTitle">Erlaubnis erforderlich</string>
+    <string name="permissionRequiredParametre">die Einstellungen</string>
+</resources>

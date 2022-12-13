@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Konverter SMS </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Pretvori </string>
+    <string name = "start_main"> Začni </string>
+    <string name = "start_application"> Začni </string>
+    <string name = "start_convert2"> Začnite pretvorbo SMS-a </string>
+    <string name = "start_sent"> Pošlji </string>
+    <string name = "start_sent2"> Pošlji po pošti </string>
+    <string name = "start_showFile"> Prikaži konverzije </string>
+    <string name = "noPermissionsGranted"> Znova zaženite aplikacijo </string>
+    <string name = "sorryNoTelephony"> Vaša naprava nima podpore za telefonijo </string>
+    <string name = "nit"> Pogovori </string>
+    <string name = "nameSender"> Ime </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> Body </string>
+    <string name = "textSender"> Besedilo </string>
+    <string name = "typeSender"> Vrsta </string>
+    <string name = "typeSenderR"> Prejeto </string>
+    <string name = "typeSenderS"> Poslano </string>
+    <string name = "dateSender"> Datum </string>
+    <string name = "numberOfThread"> Skupni pogovori </string>
+    <string name = "numberOfSMS"> Skupaj SMS </string>
+    <string name = "PageNumber"> Stran # </string>
+    <string name = "enterMail"> Vnesite veljaven e-poštni naslov </string>
+    <string name = "errorMailNotFormatted"> Neveljaven e-poštni naslov </string>
+    <string name = "ConnectionNotOk"> Brez povezave </string>
+    <string name = "body"> To sporočilo je poslal SMSConverter in za ta stik </string>
+    <string name = "mailtitle"> SMSConverter za stik </string>
+    <string name = "conversionEnded"> Konverzija je končana za:%2$s </string>
+    <string name = "conversionconfailed"> Pretvorba ni uspela za stik:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Pretvorba v teku ... čaka na obvestilo </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Počakajte, dokler je pretvorba v teku </string>
+    <string name = "sendingRunning"> Pošlje konverzijo </string>
+    <string name = "sendingRunningDetail"> Preusmeritev se pošilja ... čaka na obvestilo </string>
+    <string name = "sendingEnded"> Pošlji končano konverzijo za stik:%2$s </string>
+    <string name = "checkSPAM"> Kontakt %2$s mora preveriti mapo neželene pošte </string>
+    <string name = "sendingFailed"> Pošlji poslano konverzijo za stik:%2$s </string>
+    <string name = "makeConversionFirst"> Najprej morate narediti konverzijo </string>
+    <string name = "noHandler"> Ni bilo mogoče odpreti, nobene aplikacije, povezane s to datoteko </string>
+    <string name = "dateLib"> Datum: </string>
+    <string name = "pageNumber"> Stran: </string>
+    <string name = "action_about"> O </string>
+    <string name = "iskanje"> Iskanje </string>
+    <string name = "search_hint"> iskanje po imenu ... </string>
+    <string name = "button_startagain"> Znova zaženite aplikacijo </string>
+    <string name = "tap_exit"> Znova kliknite, da zapustite aplikacijo </string>
+    <string name = "transition_app_icon" translatable = "false"> Prehod Icon Icon Transition </string>
+    <string name = "about_description_1"> Razvijalec aplikacij </string>
+    <string name = "about_description_2"> Oblikovalnik ikon </string>
+    <string name="permissionRequired">Nekatere zahtevane pravice za to dejanje so zavrnili. Prosimo, odprite nastavitve, pojdite v dovoljenja in jih dovolite.</string>
+    <string name="permissionRequiredTitle">Dovoljenje je potrebno</string>
+    <string name="permissionRequiredParametre">Nastavitve</string>
+
+
+</resources>

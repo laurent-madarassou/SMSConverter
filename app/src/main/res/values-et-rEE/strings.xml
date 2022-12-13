@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> SMS-konverter </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Teisenda </string>
+    <string name = "start_main"> Alusta </string>
+    <string name = "start_application"> Alusta </string>
+    <string name = "start_convert2"> Alusta SMS-i teisendamist </string>
+    <string name = "start_sent"> Saada </string>
+    <string name = "start_sent2"> Saada posti teel </string>
+    <string name = "start_showFile"> Kuva konversioonid </string>
+    <string name = "noPermissionsGranted"> Käivita rakendus uuesti </string>
+    <string name = "sorryNoTelephony"> Teie seadmel pole telefoni toe </string>
+    <string name = "thread"> Vestlused </string>
+    <string name = "nameSender"> Nimi </string>
+    <string name = "addressSender"> Telefon </string>
+    <string name = "bodySender"> keha </string>
+    <string name = "textSender"> tekst </string>
+    <string name = "typeSender"> Tüüp </string>
+    <string name = "typeSenderR"> Vastu võetud </string>
+    <string name = "typeSenderS"> Saadetud </string>
+    <string name = "dateSender"> Kuupäev </string>
+    <string name = "numberOfThread"> vestluste koguarv </string>
+    <string name = "numberOfSMS"> SMS kokku </string>
+    <string name = "PageNumber"> Lehekülje # </string>
+    <string name = "enterMail"> Sisestage kehtiv e-posti aadress </string>
+    <string name = "errorMailNotFormatted"> Kehtetu e-posti aadress </string>
+    <string name = "ConnectionNotOk"> Ühendus puudub </string>
+    <string name = "body"> See meil saadeti SMSConverter ja selle kontakti jaoks </string>
+    <string name = "mailtitle"> Kontaktisik SMSConverter </string>
+    <string name = "convertEnded"> Konversioon valmis:%2$s </string>
+    <string name = "conversionFailed"> Kontakti konversioon ebaõnnestus:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Konversioon on käimas ... teate ootel </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Oodake, kuni konversioon on käimas </string>
+    <string name = "sendingRunning"> Saadab konversiooni </string>
+    <string name = "sendingRunningDetail"> Konversioon saadetakse ... teavitamise ootel </string>
+    <string name = "sendingEnded"> Saadab kontakti jaoks lõpetatud konversiooni:%2$s </string>
+    <string name = "checkSPAM">%2$s kontaktisik peab kontrollima oma rämpsposti kausta </string>
+    <string name = "sendingFailed"> Saada ebaõnnestunud konversioon kontakti jaoks:%2$s </string>
+    <string name = "makeConversionFirst"> Peate esimesel konversioonil tegema </string>
+    <string name = "noHandler"> Selle failiga ei suudetud avada ühtegi rakendust </string>
+    <string name = "dateLib"> Kuupäev: </string>
+    <string name = "pageNumber"> Lehekülg: </string>
+    <string name = "action_about"> Teave </string>
+    <string name = "search"> Otsi </string>
+    <string name = "search_hint"> otsi nime järgi ... </string>
+    <string name = "button_startagain"> Käivita rakendus uuesti </string>
+    <string name = "tap_exit"> Klõpsake uuesti rakenduse väljumiseks </string>
+    <string name = "transition_app_icon" translatable = "false"> Rakenduse ikooni üleminek </string>
+    <string name = "about_description_1"> rakenduse arendaja </string>
+    <string name = "about_description_2"> ikoonide disainer </string>
+</resources>

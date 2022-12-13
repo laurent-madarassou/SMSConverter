@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Конвертер SMS </string>
+    <string name = "InfoVersion"> 1.7 </string>
+    <string name = "total_sms"> sms </string>
+    <string name = "start_convert"> Преобразовать </string>
+    <string name = "start_main"> Пуск </string>
+    <string name = "start_application"> Пуск </string>
+    <string name = "start_convert2"> Начать преобразование SMS </string>
+    <string name = "start_sent"> Отправить </string>
+    <string name = "start_sent2"> Отправить по почте </string>
+    <string name = "start_showFile"> Показать преобразования </string>
+    <string name = "noPermissionsGranted"> Запустить приложение снова </string>
+    <string name = "sorryNoTelephony"> Ваше устройство не поддерживает телефонию </string>
+    <string name = "thread"> Беседы </string>
+    <string name = "nameSender"> Имя </string>
+    <string name = "addressSender"> Телефон </string>
+    <string name = "bodySender"> Тело </string>
+    <string name = "textSender"> Текст </string>
+    <string name = "typeSender"> Тип </string>
+    <string name = "typeSenderR"> Получено </string>
+    <string name = "typeSenderS"> Отправлено </string>
+    <string name = "dateSender"> Дата </string>
+    <string name = "numberOfThread"> Всего разговоров </string>
+    <string name = "numberOfSMS"> Всего SMS </string>
+    <string name = "PageNumber"> Страница # </string>
+    <string name = "enterMail"> Введите действительный адрес электронной почты </string>
+    <string name = "errorMailNotFormatted"> Неверный адрес электронной почты </string>
+    <string name = "ConnectionNotOk"> Нет подключения </string>
+    <string name = "body"> Это письмо было отправлено SMSConverter и для этого контакта </string>
+    <string name = "mailtitle"> SMSConverter для контакта </string>
+    <string name = "conversionEnded"> Завершена конверсия для:%2$s </string>
+    <string name = "conversionFailed"> Не удалось выполнить преобразование для контакта:%2$s </string>
+    <string name = "conversionRunningWaitForNotification"> Выполняется преобразование ... ожидание уведомления </string>
+    <string name = "aConversionIsRunningWaitForNotification"> Подождите, пока выполняется преобразование </string>
+    <string name = "отправкаRunning"> Отправляет преобразование </string>
+    <string name = "отправкаRunningDetail"> Передача отправляется ... Ожидание уведомления </string>
+    <string name = "sendEnded"> Отправляет завершенное преобразование для контакта:%2$s </string>
+    <string name = "checkSPAM"> Контакт%2$s должен проверить папку со спамом </string>
+    <string name = "sendFailed"> Отправить неудачное преобразование для контакта:%2$s </string>
+    <string name = "makeConversionFirst"> Сначала нужно выполнить преобразование </string>
+    <string name = "noHandler"> Не удалось открыть, никакое приложение, связанное с этим файлом </string>
+    <string name = "dateLib"> Дата: </string>
+    <string name = "pageNumber"> Страница: </string>
+    <string name = "action_about"> О </string>
+    <string name = "search"> Поиск </string>
+    <string name = "search_hint"> поиск по имени ... </string>
+    <string name = "button_startagain"> Запустить приложение снова </string>
+    <string name = "tap_exit"> Нажмите еще раз, чтобы выйти из приложения </string>
+    <string name = "transition_app_icon" translatable = "false"> Переход значка приложения </string>
+    <string name = "about_description_1"> Разработчик приложений </string>
+    <string name = "about_description_2"> Icon Designer </string>
+    <string name="permissionRequired">Вы отклонили некоторые необходимые разрешения для этого действия. Откройте настройки, перейдите к разрешениям и разрешите их.</string>
+    <string name="permissionRequiredTitle">Требуется разрешение</string>
+    <string name="permissionRequiredParametre">настройки</string>
+</resources>
